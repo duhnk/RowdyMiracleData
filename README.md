@@ -66,7 +66,3 @@ If you find any bugs or would like to suggest new features, please open an issue
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
-
-Remember to create a `LICENSE.md` file if you refer to it in your README. You can use tools like [Choose A License](https://choosealicense.com/) to help decide and format a license for your project. 
-
-I hope this helps, and let me know if you need any more information!

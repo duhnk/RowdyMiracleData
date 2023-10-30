@@ -42,7 +42,7 @@ createtable = """CREATE TABLE rowdyT1  (LEA_STATE VARCHAR(2),
                                      SCH_MATHENR_ADVM_LEP_M INT,
                                      SCH_MATHENR_ADVM_LEP_F INT,
                                      SCH_MATHENR_ADVM_IDEA_M INT,
-                                     SCH_MATHENR_ADVM_IDEA_F INT);  """  # This remains unchanged
+                                     SCH_MATHENR_ADVM_IDEA_F INT);  """  
 cursor.execute(createtable)
 with open('PATH/YOURFILE.csv', 'r',encoding='YOUR FILE FORMAT', errors='replace') as file:
     reader = csv.reader(file)
